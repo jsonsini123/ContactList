@@ -3,7 +3,7 @@
  *
  * Created for Menlo School CS2
  *
- * @author: Ms. Namasivayam & Mr. Blick
+ * @author: Ms. Namasivayam, Mr. Blick & Jake Sonsini
  * @version: 2022-2023
  */
 
